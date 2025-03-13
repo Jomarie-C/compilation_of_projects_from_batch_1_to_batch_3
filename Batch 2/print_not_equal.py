@@ -1,5 +1,7 @@
-# Pseudocode 
-    # Enter two(2) numbers
-    # Check if two(2) numbers are not equal
-        # If true, print "Not Equal" 
-        # If false, print "Equal"
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+ 
+if num1 != num2:
+    print("Not Equal.")
+elif num1 == num2:
+    print("Equal.")
