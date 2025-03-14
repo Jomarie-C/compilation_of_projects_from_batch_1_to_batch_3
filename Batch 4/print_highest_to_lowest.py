@@ -6,3 +6,7 @@ while True:
         numbers.append(num)
     except:
         break
+
+numbers.sort()
+numbers.reverse()
+
