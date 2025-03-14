@@ -1,7 +1,3 @@
-# Pseudocode
-    # Ask the user to input two numbers
-    # Create a loop that will meet the expected outcome
-        # While num1 is less than or equal to num2
-            # Print num1 and add 1
-
+num1 = int(input("Enter the starting number: "))
+num2 = int(input("Enter the ending number: "))
 
