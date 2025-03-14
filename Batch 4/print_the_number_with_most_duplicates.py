@@ -15,3 +15,8 @@ for num in numbers:
     if count > max_count:
         max_count = count
         most_common = num
+
+if max_count > 1:
+    print("The most common number entered is", most_common)
+else:
+    print("No duplicates found.")
