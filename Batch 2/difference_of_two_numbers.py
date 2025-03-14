@@ -1,4 +1,5 @@
-# Pseudocode
-    # Enter two(2) numbers
-    # Create an operation for both numbers(Subtraction)
-        # Print the sum of two(2) numbers
+num1 = float(input("Enter the minuend: "))
+num2 = float(input("Enter the second subtrahend: "))
+
+diff_of_two_nums = num1 - num2
+print("The difference of two numbers is", + diff_of_two_nums)
