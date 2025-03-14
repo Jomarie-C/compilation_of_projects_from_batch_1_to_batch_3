@@ -10,3 +10,5 @@ while True:
 numbers.sort()
 numbers.reverse()
 
+print("\nNumbers from highest to lowest:", numbers)
+print("\nExiting the program")
